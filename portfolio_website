@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+  <title> Ian Reeves </title>
+  <link href="C:\Users\ianre\AppData\Local\Programs\Python\Python36-32\HTML\Portfolio Website\portfolio_project.css"> rel="Stylesheet"
+  <style>
+  </style>
+  
+  <div class="header">     
+    <img src="http://www.anas-almuzaini.sa/img/udacity-logo.png"       alt="Udacity_logo" </img>
+    <h1> Ian Reeves </h1>
+    <h3> Front-End Ninja </h3>
+  </div>
+</head>
+<hr>
+<body>
+		<h2> About Ian </h2>
+	<p>	 When summer comes along, I am likely at the beach, on a boat or on a hike with my dogs. 
+    I'm excited to continue bettering my skills as a programer!
+    I haven't completed many coding projects, so I'll tell you about myself here:
+        I enjoy skiing and spending time in the mountains.
+		 </p>
+	
+<img src="http://98.129.89.114/tahoe/178/site/graphics/new/team/daron-rahlves_lg.jpg" class="skiing" alt="Daron Rahlves">
+<img src="http://ww2.hdnux.com/photos/47/60/60/10423321/3/rawImage.jpg" class="tahoe" alt="Lake_Tahoe">
+<img src="http://traveler.rtx.travel/wp-content/uploads/2015/12/Hiking-Mt-Tallac-South-Lake-Tahoe-5-copy.jpg" class="hiking" alt="hiking_tahoe">
+
+<div class="container">
+  <h2> Featured Work </h2>
+  <p class="featured">The projects displayed below represent a few of the projects I have been affiliated with. Starting on the left, the poster image of the movie Forrest Gump is a movie trailer project that I created that displays a set of movie titles, trailers, and their poster images. The image in the middle represents my work done with Reno Revolution, an online marketing agency. There I helped design and build websites through Wix, an online web builder. The third image represents a website I helped work on called Ideal Canine. Their company helps train dogs in the Reno/Tahoe area.</p>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg" class= "movie_trailer"
+       alt="forest_gump_poster">
+  
+  <a href="https://www.romonlinemarketing.com/">
+    <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAR1AAAAJGJhMThhODA0LWNiYTEtNDg4OS05YmMxLTdjNjc0Y2ViMTFiYg.png"
+         class= "revolution" alt="Reno_Revolution">
+
+  <a href="https://www.idealk9.com/">
+    <img src="https://s3-media2.fl.yelpcdn.com/bphoto/1OYulXrC9ktKg4xF_KSVQw/ls.jpg" class="canine" alt="ideal_canine">
+     

@@ -1,0 +1,77 @@
+@media screen and(min-width: 1700px;)
+.container {
+  color: #7d97ad;
+  padding-top: 10px;
+}
+
+h3 {
+  color: #2d3c49;
+	text-align: right;
+}
+    
+h1 {
+  text-align: right;  
+}
+    
+h2 {
+  text-align: center;
+}
+    
+p {
+  text-align: center;
+}
+    
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+hr {
+ width: 100%;
+}
+
+.tahoe {
+  width: 31.5%;
+  min-height: 400px;
+}
+
+.skiing {
+  width: 31%;
+  max-height: 400px;
+  padding-left: 50px;
+}
+
+.hiking {
+  max-width: 31%;
+  min-height: 400px;
+  padding-right: 50px;
+}
+
+.revolution {
+  max-height: 300px;
+  min-height: 299px;
+  position: relative;
+  padding-right: 15%;
+  
+ }
+
+.movie_trailer {
+     position: relative;
+     max-height: 300px;
+     min-height: 299px;
+     padding-left: 15%;
+     padding-right: 15%;
+}
+  
+.canine {
+  position: relative;
+  left: 
+  max-height: 300px;
+  min-height: 299px;
+}
+
+.featured {
+  text-align: left;
+  text-indent: 50px;
+}
